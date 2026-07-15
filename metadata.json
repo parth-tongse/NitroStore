@@ -1,0 +1,6 @@
+{
+  "name": "NitroStore",
+  "description": "A high-end digital products marketplace specialized in Discord Nitro, game keys, and account boosts with an advanced admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

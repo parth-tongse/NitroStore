@@ -1,0 +1,55 @@
+========================================================================
+ SOFTWARE LICENSE AGREEMENT & PROPRIETARY RIGHTS CERTIFICATE
+========================================================================
+Project Name: NitroStore Full-Stack Portal
+Lead Developer & Owner: Parth Tongse
+Licensing Tier: Proprietary / All Rights Reserved to Parth Tongse
+Date of Registry: 2026-07-03
+Location: Maharashtra, India
+
+------------------------------------------------------------------------
+1. OWNERSHIP AND PROPRIETARY RIGHTS
+------------------------------------------------------------------------
+All software code (including frontend React modules, backend Express layers,
+integrated Google Gemini AI assistant components, database schemas, local state
+management, and UI styles), custom asset files, logic workflows, design assets,
+and digital products contained within this repository are the exclusive
+intellectual property of PARTH TONGSE ("the Developer").
+
+All proprietary and copyright privileges remain strictly, fully, and solely with
+Parth Tongse. No rights are transferred to any third party under this or any
+associated agreement unless explicitly authorized in a signed physical deed
+by Parth Tongse.
+
+------------------------------------------------------------------------
+2. TERMS OF USE AND PERMISSIONS
+------------------------------------------------------------------------
+By deploying or using this portal, you agree to the following terms:
+
+- NO COMMERCIAL RESALE: You are strictly forbidden from distributing, leasing,
+  reselling, or licensing this software or any part of its codebase to third
+  parties under your own name or branding without the express written consent 
+  of Parth Tongse.
+  
+- REVERSE ENGINEERING RESTRICTIONS: Modifying the developer credits, licensing
+  claims, or metadata referencing Parth Tongse's sole authorship is a direct
+  violation of this agreement.
+  
+- ORIGINAL CREDITS: The "Developed by Parth Tongse" citation inside the Support
+  and Settings panes must remain intact and visible in any active running 
+  or shared environment of this applet.
+
+------------------------------------------------------------------------
+3. LIMITATION OF LIABILITY & WARRANTY
+------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+========================================================================
+Copyright (c) 2026 Parth Tongse. All Rights Reserved.
+========================================================================
