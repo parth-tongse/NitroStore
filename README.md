@@ -17,3 +17,7 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/6qQG2zN9/Nitro-Store-Google-Chrome-7-15-2026-1-18-53-PM.png" />
 </div>
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://i.postimg.cc/MpBfQvg0/Nitro-Store-Google-Chrome-7-15-2026-1-19-02-PM.png" />
+</div>
